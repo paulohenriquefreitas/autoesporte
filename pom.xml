@@ -6,7 +6,7 @@
 	<groupId>com.autoesporte</groupId>
 	<artifactId>autoesporte</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>autoesporte</name>
 	<description>Aplicacao de gestao de autoesporte</description>
